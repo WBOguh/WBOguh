@@ -23,4 +23,5 @@ Experiencia profesional desarrollando aplicaciones empresariales con **Velneo**.
 ## 📫 Contacto
 
 🐙 [GitHub](https://github.com/WBOguh)
+
 📧 Email: `hugobejarmurcia@gmail.com`
