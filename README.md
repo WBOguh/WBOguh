@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Hugo
 
-<!--
-**WBOguh/WBOguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Ingeniería Informática | Backend · Sistemas · Redes
 
-Here are some ideas to get you started:
+Estudiante de **Ingeniería Informática en la Universidad de Granada**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesado en **backend, sistemas, redes, robótica, inteligencia artificial y ciberseguridad**.
+
+Experiencia profesional desarrollando aplicaciones empresariales con **Velneo**.
+
+## 🛠️ Lenguajes
+
+`C++` · `Python` · `Java` · `Assembly` · `SQL`
+
+## 🔧 Tecnologías
+
+`Docker` · `Linux` · `Git` · `REST APIs` · `OpenCV` · `ArUco` · `Velneo` · `Swagger`
+
+## 🌐 Áreas
+
+`Backend` · `Redes` · `Sistemas Operativos` · `Bases de Datos` · `Ciberseguridad` · `Robótica` · `IA`
+
+## 📫 Contacto
+
+🐙 [GitHub](https://github.com/WBOguh)
+📧 Email: `hugobejarmurcia@gmail.com`
